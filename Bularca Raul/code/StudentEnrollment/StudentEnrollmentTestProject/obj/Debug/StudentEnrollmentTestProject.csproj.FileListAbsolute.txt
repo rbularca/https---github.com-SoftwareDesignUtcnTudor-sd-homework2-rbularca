@@ -1,0 +1,11 @@
+E:\SD-2017\StudentEnrollment\StudentEnrollmentTestProject\obj\Debug\StudentEnrollmentTestProject.csprojResolveAssemblyReference.cache
+E:\SD-2017\StudentEnrollment\StudentEnrollmentTestProject\bin\Debug\StudentEnrollmentTestProject.dll
+E:\SD-2017\StudentEnrollment\StudentEnrollmentTestProject\bin\Debug\StudentEnrollmentTestProject.pdb
+E:\SD-2017\StudentEnrollment\StudentEnrollmentTestProject\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+E:\SD-2017\StudentEnrollment\StudentEnrollmentTestProject\bin\Debug\StudentEnrollment.exe
+E:\SD-2017\StudentEnrollment\StudentEnrollmentTestProject\bin\Debug\MySql.Data.dll
+E:\SD-2017\StudentEnrollment\StudentEnrollmentTestProject\bin\Debug\StudentEnrollment.pdb
+E:\SD-2017\StudentEnrollment\StudentEnrollmentTestProject\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.xml
+E:\SD-2017\StudentEnrollment\StudentEnrollmentTestProject\bin\Debug\MySql.Data.xml
+E:\SD-2017\StudentEnrollment\StudentEnrollmentTestProject\obj\Debug\StudentEnrollmentTestProject.dll
+E:\SD-2017\StudentEnrollment\StudentEnrollmentTestProject\obj\Debug\StudentEnrollmentTestProject.pdb
